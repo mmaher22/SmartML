@@ -22,10 +22,10 @@ The goal of SmartML is to automate the process of classifier algorithm selection
 ---
 ## Installation
 
-You can install the released version of SmartML from [Github](https://github.com/DataSystemsGroupUT/SmartML) with:
+You can install the released version of SmartML from [Github](https://github.com/mmaher22/SmartML) with:
 
 ``` r
-install_github("DataSystemsGroupUT/SmartML")
+install_github("mmaher22/SmartML")
 ```
 
 ---
@@ -91,12 +91,5 @@ Mohamed Maher, Sherif Sakr.,SMARTML: A Meta Learning-Based Framework for Automat
 ```
 
 ---
-## Funding:
-This work is funded by the European Regional Development Funds via the Mobilitas Plus programme (grant MOBTT75).
-
----
 ## Licence:
-<p>
-  &copy; 2019, Data Systems Group at University of Tartu
-</p>
 This work is licensed under the terms of the GNU General Public License, version 3.0 (GPLv3)
