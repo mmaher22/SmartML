@@ -1,6 +1,6 @@
 <img src = "https://bigdata.cs.ut.ee/smartml/images/banner.png">
 
-[![Build Status](https://travis-ci.org/DataSystemsGroupUT/SmartML.svg?branch=master)](https://travis-ci.org/DataSystemsGroupUT/SmartML)
+
 [![DOI](http://joss.theoj.org/papers/10.21105/joss.00786/status.svg)](https://doi.org/10.5441/002/edbt.2019.54)
 
 
@@ -31,7 +31,7 @@ install_github("mmaher22/SmartML")
 ---
 ## User Manual
 
-Manual for the SmartML R package can be found <a href = "https://github.com/DataSystemsGroupUT/Auto-Machine-Learning/blob/master/manual.pdf"> HERE </a>
+Manual for the SmartML R package can be found <a href = "https://github.com/mmaher22/Auto-Machine-Learning/blob/master/manual.pdf"> HERE </a>
 
 ---
 ## Example
@@ -80,7 +80,7 @@ result3$perf #performance of chosen classifier on testing set
 
 ---
 ## Contribution GuideLines to SmartML
-To Contribute to `SmartML`, Please Follow these <a href = "https://github.com/DataSystemsGroupUT/SmartML/blob/master/CONTRIBUTE.md"> GuideLines </a>
+To Contribute to `SmartML`, Please Follow these <a href = "https://github.com/mmaher22/SmartML/blob/master/CONTRIBUTE.md"> GuideLines </a>
 
 ---
 ## Publication
